@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XiaoLiu1020
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning and working with Golang 
 
 <!---
 XiaoLiu1020/XiaoLiu1020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
